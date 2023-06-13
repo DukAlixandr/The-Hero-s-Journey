@@ -128,7 +128,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: -4554748587396184535, guid: fc88585cd0f9d464895bec4463dd5a23, type: 3}
+  m_Sprite: {fileID: -4554748587396184535, guid: fc88585cd0f9d464895bec4463dd5a23,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -210,7 +211,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: 2432401738494628612, guid: fc88585cd0f9d464895bec4463dd5a23, type: 3}
+  m_Sprite: {fileID: 2432401738494628612, guid: fc88585cd0f9d464895bec4463dd5a23,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -292,7 +294,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 3057123883623212096, guid: fc88585cd0f9d464895bec4463dd5a23, type: 3}
+  m_Sprite: {fileID: 3057123883623212096, guid: fc88585cd0f9d464895bec4463dd5a23,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -374,7 +377,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: -3834552351076523389, guid: fc88585cd0f9d464895bec4463dd5a23, type: 3}
+  m_Sprite: {fileID: -3834552351076523389, guid: fc88585cd0f9d464895bec4463dd5a23,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -462,6 +466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 0.5
+  _cardPower: 0
 --- !u!1 &7398084807999524315
 GameObject:
   m_ObjectHideFlags: 0
@@ -533,7 +538,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 6
-  m_Sprite: {fileID: -7359358998909224080, guid: fc88585cd0f9d464895bec4463dd5a23, type: 3}
+  m_Sprite: {fileID: -7359358998909224080, guid: fc88585cd0f9d464895bec4463dd5a23,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -615,7 +621,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: 7060261402683903374, guid: fc88585cd0f9d464895bec4463dd5a23, type: 3}
+  m_Sprite: {fileID: 7060261402683903374, guid: fc88585cd0f9d464895bec4463dd5a23,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
