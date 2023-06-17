@@ -29,7 +29,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5760744416771420390}
   - component: {fileID: 3364254417429685672}
-  - component: {fileID: -8967650446882338567}
+  - component: {fileID: 2201239345873735781}
   m_Layer: 5
   m_Name: ClownFinishPrefab
   m_TagString: Untagged
@@ -83,7 +83,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 361.83, y: 537.58}
   m_EdgeRadius: 0
---- !u!114 &-8967650446882338567
+--- !u!114 &2201239345873735781
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,11 +92,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4527225265802809091}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99a30994b8c20ed4d9a5c18cbaaf4daf, type: 3}
+  m_Script: {fileID: 11500000, guid: cafc3e2f1eee8724da6e7245edddf2f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 0.5
-  _cardPower: 0
 --- !u!1001 &6845525570725622359
 PrefabInstance:
   m_ObjectHideFlags: 0

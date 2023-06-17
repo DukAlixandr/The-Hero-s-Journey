@@ -341,7 +341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8819117773614538369}
   - component: {fileID: -3779557190548098372}
-  - component: {fileID: 3774540747755831965}
+  - component: {fileID: -362718739761797762}
   m_Layer: 5
   m_Name: DaemonLordFinishPrefab
   m_TagString: Untagged
@@ -395,7 +395,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 361.83, y: 537.58}
   m_EdgeRadius: 0
---- !u!114 &3774540747755831965
+--- !u!114 &-362718739761797762
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -404,11 +404,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 7068696275445639648}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99a30994b8c20ed4d9a5c18cbaaf4daf, type: 3}
+  m_Script: {fileID: 11500000, guid: cafc3e2f1eee8724da6e7245edddf2f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 0.5
-  _cardPower: 0
 --- !u!1 &7190722654875856367
 GameObject:
   m_ObjectHideFlags: 0

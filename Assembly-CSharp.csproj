@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\SceneForGD\ScriptForGD.cs" />
      <Compile Include="Assets\Shared\Scripts\SimpleCharacterMotor.cs" />
      <Compile Include="Assets\TestMyCollectionScene\MyCollectionScriptScene.cs" />
      <Compile Include="Assets\GamePlayScene\Scripts\CardManager.cs" />
@@ -44,11 +45,12 @@
      <Compile Include="Assets\GamePlayScene\Scripts\LocationScript.cs" />
      <Compile Include="Assets\GamePlayScene\Scripts\DeckManager.cs" />
      <Compile Include="Assets\GamePlayScene\Scripts\HandManager.cs" />
+     <Compile Include="Assets\GamePlayScene\Scripts\EnemyCardManager.cs" />
+     <Compile Include="Assets\GamePlayScene\Scripts\PlayerCardManager.cs" />
      <Compile Include="Assets\Shared\Scripts\AdjustTimeScale.cs" />
      <Compile Include="Assets\Shared\Ramps\Runtime\RampAsset.cs" />
      <Compile Include="Assets\Shared\Scripts\SimpleCameraController.cs" />
-     <Compile Include="Assets\GamePlayScene\Scripts\GameplayManager.cs" />
-     <Compile Include="Assets\SceneForGD\ScriptForGD.cs" />
+     <Compile Include="Assets\GamePlayScene\Scripts\EndTurnScript.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />

@@ -71,7 +71,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: -4205377533305871878, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: -4205377533305871878, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -153,7 +154,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: -3475605499659983750, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: -3475605499659983750, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -235,7 +237,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 9121816858770109043, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: 9121816858770109043, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -317,7 +320,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: -8901614200784686399, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: -8901614200784686399, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -461,7 +465,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: -2899725032497292973, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: -2899725032497292973, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -543,7 +548,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 9
-  m_Sprite: {fileID: -3656235214110321919, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: -3656235214110321919, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0.8}
   m_FlipX: 0
   m_FlipY: 0
@@ -625,7 +631,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 9163633572492329614, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: 9163633572492329614, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -707,7 +714,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 11
-  m_Sprite: {fileID: -9166720332230376474, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: -9166720332230376474, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -789,7 +797,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Sprite: {fileID: -1265142196880654960, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: -1265142196880654960, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -871,7 +880,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 7
-  m_Sprite: {fileID: 3548625062748698866, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: 3548625062748698866, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -953,7 +963,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 6
-  m_Sprite: {fileID: 8841107282093719827, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: 8841107282093719827, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -974,7 +985,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8280468329733207035}
   - component: {fileID: 8280468329733207033}
-  - component: {fileID: 8280468329733207032}
+  - component: {fileID: 8633762301777624922}
   m_Layer: 5
   m_Name: MotherOfDeamonsFinishPrefab
   m_TagString: Untagged
@@ -1028,7 +1039,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 361.83, y: 537.58}
   m_EdgeRadius: 0
---- !u!114 &8280468329733207032
+--- !u!114 &8633762301777624922
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1037,11 +1048,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 8280468329733207034}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99a30994b8c20ed4d9a5c18cbaaf4daf, type: 3}
+  m_Script: {fileID: 11500000, guid: cafc3e2f1eee8724da6e7245edddf2f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 0.5
-  _cardPower: 0
 --- !u!1 &8412310800026886547
 GameObject:
   m_ObjectHideFlags: 0
@@ -1113,7 +1123,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 8
-  m_Sprite: {fileID: 8061866180931375796, guid: 4c5e6788135fbe343826acd87411afd6, type: 3}
+  m_Sprite: {fileID: 8061866180931375796, guid: 4c5e6788135fbe343826acd87411afd6,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

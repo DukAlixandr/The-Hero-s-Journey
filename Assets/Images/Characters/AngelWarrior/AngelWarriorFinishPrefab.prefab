@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4967067728735658191}
   - component: {fileID: -7681262346730430599}
-  - component: {fileID: -7585784345895505888}
+  - component: {fileID: 9016124794853282679}
   m_Layer: 5
   m_Name: AngelWarriorFinishPrefab
   m_TagString: Untagged
@@ -64,7 +64,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 361.83, y: 537.58}
   m_EdgeRadius: 0
---- !u!114 &-7585784345895505888
+--- !u!114 &9016124794853282679
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -73,11 +73,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4967067728735658176}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99a30994b8c20ed4d9a5c18cbaaf4daf, type: 3}
+  m_Script: {fileID: 11500000, guid: cafc3e2f1eee8724da6e7245edddf2f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 0.5
-  _cardPower: 0
 --- !u!95 &4967067728353295172
 Animator:
   serializedVersion: 3
