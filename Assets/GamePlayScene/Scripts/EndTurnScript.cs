@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EndTurnScript : MonoBehaviour
 {
@@ -15,7 +16,7 @@ public class EndTurnScript : MonoBehaviour
     {
         
     }
-    public void EndTurn(){
-        
+    public void GoToGDScene(){
+        SceneManager.LoadScene("SceneForGD");
     }
 }
