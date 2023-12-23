@@ -5,8 +5,31 @@ TagManager:
   serializedVersion: 2
   tags:
   - Shootable
-  - Location2
+  - BaseAngelOfDeath
+  - BaseAlexTheHero
+  - BaseAngelWarrior
+  - BaseArthemida
+  - BaseBrownDragon
+  - BaseClown
+  - BaseDaemonLord
+  - BaseDeamonControl
+  - BaseGablock
+  - BaseGoldenDragon
+  - BaseHeadLessRider
+  - BaseLarry
+  - BaseMageValerica
+  - BaseMakima
+  - BaseMotherOfDeamons
+  - BaseMotherOfDeath
+  - BaseOceanTerror
+  - BaseRogue
+  - BaseSnakeGirl
+  - BaseTrithon
+  - BaseTwins
+  - BaseValciry
+  - BaseVampireQuin
   - Location1
+  - Location2
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: bfe8910a081075d46a631246b6b1212b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Hair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1684
+      y: 591
+      width: 222
+      height: 246
+    spriteID: 1605473788caf5944bca080bad389857
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1684, y: 591}
+    spritePosition: {x: 390, y: 498}
+  - name: L Hand Bow
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1388
+      y: 4
+      width: 423
+      height: 579
+    spriteID: 9ca9c4a3c50b6fe469ffdfed5d8bfdb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1388, y: 4}
+    spritePosition: {x: 89, y: 397}
+  - name: Tape
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1388
+      y: 591
+      width: 288
+      height: 216
+    spriteID: 964c79fa83a9b57439b4b016fdeb323c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1388, y: 591}
+    spritePosition: {x: 168, y: 355}
+  - name: Horns
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1819
+      y: 332
+      width: 173
+      height: 169
+    spriteID: c03b0ff7d2fb4f148a711a593864338f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1819, y: 332}
+    spritePosition: {x: 642, y: 482}
+  - name: Face
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1819
+      y: 4
+      width: 148
+      height: 320
+    spriteID: e1337cacf0269f64fa51d4be34ebfb17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1819, y: 4}
+    spritePosition: {x: 659, y: 329}
+  - name: Tape_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 727
+      y: 988
+      width: 264
+      height: 198
+    spriteID: 1f48eb3af1d73fb4bb5155da3648eba3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 727, y: 988}
+    spritePosition: {x: 32, y: 274}
+  - name: Boarder
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 988
+      width: 715
+      height: 998
+    spriteID: e7ed072addf6fb044a1278d124186ff3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 986}
+    spritePosition: {x: 145, y: 2}
+  - name: quiver
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1914
+      y: 591
+      width: 81
+      height: 180
+    spriteID: 5e6d4ba263f4bea40a57f23051902525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1914, y: 591}
+    spritePosition: {x: 583, y: 523}
+  - name: Tapes
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1914
+      y: 779
+      width: 41
+      height: 78
+    spriteID: 8c4d48e4c49be7245bbe170cd073c805
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1914, y: 779}
+    spritePosition: {x: 477, y: 251}
+  - name: "\u0421\u043B\u043E\u0439 1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 733
+      height: 976
+    spriteID: fd99504d0ea3d564f9d6b6343bab56db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 88, y: 14}
+  - name: BackGround
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 745
+      y: 4
+      width: 635
+      height: 941
+    spriteID: 8d941a07d76881a4aa37389cc33e13e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 562, y: -16}
+    spritePosition: {x: 183, y: 20}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Hair
+    spriteName: Hair
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1605473788caf5944bca080bad389857
+    layerID: 27
+    mosaicPosition: {x: 1684, y: 591}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: L Hand Bow
+    spriteName: L Hand Bow
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ca9c4a3c50b6fe469ffdfed5d8bfdb0
+    layerID: 35
+    mosaicPosition: {x: 1388, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tape
+    spriteName: Tape
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 964c79fa83a9b57439b4b016fdeb323c
+    layerID: 36
+    mosaicPosition: {x: 1388, y: 591}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Horns
+    spriteName: Horns
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c03b0ff7d2fb4f148a711a593864338f
+    layerID: 45
+    mosaicPosition: {x: 1819, y: 332}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Face
+    spriteName: Face
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e1337cacf0269f64fa51d4be34ebfb17
+    layerID: 19
+    mosaicPosition: {x: 1819, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tape
+    spriteName: Tape_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1f48eb3af1d73fb4bb5155da3648eba3
+    layerID: 30
+    mosaicPosition: {x: 727, y: 988}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Boarder
+    spriteName: Boarder
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e7ed072addf6fb044a1278d124186ff3
+    layerID: 18
+    mosaicPosition: {x: 4, y: 988}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: quiver
+    spriteName: quiver
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5e6d4ba263f4bea40a57f23051902525
+    layerID: 43
+    mosaicPosition: {x: 1914, y: 591}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tapes
+    spriteName: Tapes
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8c4d48e4c49be7245bbe170cd073c805
+    layerID: 44
+    mosaicPosition: {x: 1914, y: 779}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "\u0421\u043B\u043E\u0439 1"
+    spriteName: "\u0421\u043B\u043E\u0439 1"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd99504d0ea3d564f9d6b6343bab56db
+    layerID: 34
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BackGround
+    spriteName: BackGround
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8d941a07d76881a4aa37389cc33e13e6
+    layerID: 17
+    mosaicPosition: {x: 745, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: Archer Texture
+  prefabAssetName: Archer Prefab
+  spriteLibAssetName: Archer Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []
